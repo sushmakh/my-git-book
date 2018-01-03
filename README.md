@@ -5,11 +5,11 @@
 
 ### Table of Contents
 
-*[Chapter 1](chapt1)
-*[Chapter 2](chapt2)
-*[Chapter 3](chapt3)
+* [Chapter 1](chapt1)
+* [Chapter 2](chapt2)
+* [Chapter 3](chapt3)
 
 ###License
 This is released under [Creative Commons License 4.0]
-(https://creativecommons/license
+(https://creativecommons/license)
 
